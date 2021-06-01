@@ -1,5 +1,7 @@
 <template>
-	<div class="fx67ll-box"></div>
+	<div class="fx67ll-box">
+		<!-- <draggable-table></draggable-table> -->
+	</div>
 </template>
 
 <script>
