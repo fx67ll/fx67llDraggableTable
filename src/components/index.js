@@ -1,4 +1,4 @@
-import draggableTable from './tables/draggableTable.vue';
+import draggableTable from './tables/draggable-table.vue';
 draggableTable.install = function(Vue) {
     Vue.component(draggableTable.name, draggableTable);
 };
